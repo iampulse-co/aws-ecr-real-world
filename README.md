@@ -1,6 +1,6 @@
 This repo contains files related to the Calm Cloud Security ECR2: Practice video. 
 
-[The video and article are here](iampulse.com/videos)
+[The video and article are here](https://iampulse.com/videos)
 
 There are several files here:
 
